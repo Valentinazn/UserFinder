@@ -1,23 +1,19 @@
-# Next.js + Tailwind CSS Example
+# UserFinder
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+With this project, I want to demonstrate the acquired skills of next.js, typescript and tailwindcss.
 
-## Deploy your own
+The project is a simple person finder that offers the possibility of having many details of the person sought.
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+The API'S that I used to practice was taken from https://jsonplaceholder.typicode.com/
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+## Screenshot
 
-## How to use
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+![Screenshot (83)](https://user-images.githubusercontent.com/85753606/174077922-0d63b389-d4fd-456b-b378-e712e02f489d.png)
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-# or
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+![Screenshot (84)](https://user-images.githubusercontent.com/85753606/174077986-53b78633-f99c-4579-abf9-ba11a25df18d.png)
+
+
+
+See my work: https://userfindervz.netlify.app/
